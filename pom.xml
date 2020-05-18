@@ -29,7 +29,7 @@
 		        <cloudHubDeployment>
 		            <uri>https://anypoint.mulesoft.com</uri>
 		            <muleVersion>${mule.version}</muleVersion>
-		            <username>praveenvrinda</username>
+		            <username></username>
 		            <password></password>
 		            <applicationName>TestPOCDev</applicationName>
 		            <environment>Desgin</environment>
